@@ -1,0 +1,242 @@
+[
+    {
+        "Product": "Champagne Haze",
+        "Price": "$174  1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Original OG Kush",
+        "Price": "$155  1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Lemon Haze",
+        "Price": "$182  1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Afghan Heroin",
+        "Price": "$158  1g",
+        "Type": "Opioids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Black Nepali Hashish",
+        "Price": "$120  30g",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Moroccan Hash Standard",
+        "Price": "$215  50g",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Xanax (Alprazolam) 1mg",
+        "Price": "$70  30 pills",
+        "Type": "Depressants",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Clonazepam 0,5mg 2pcs",
+        "Price": "$65  120 pills",
+        "Type": "Depressants",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Pure Ketamine 83%",
+        "Price": "$135  5g",
+        "Type": "Dissociatives",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Champagne MDMA",
+        "Price": "$170  5g",
+        "Type": "Hallucinogens",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Champagne Haze",
+        "Price": "$174  1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Original OG Kush",
+        "Price": "$155  1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Lemon Haze",
+        "Price": "$182  1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Afghan Heroin",
+        "Price": "$158  1g",
+        "Type": "Opioids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Black Nepali Hashish",
+        "Price": "$120  30g",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Moroccan Hash Standard",
+        "Price": "$215  50g",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Xanax (Alprazolam) 1mg",
+        "Price": "$70  30 pills",
+        "Type": "Depressants",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Clonazepam 0,5mg 2pcs",
+        "Price": "$65  120 pills",
+        "Type": "Depressants",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Pure Ketamine 83%",
+        "Price": "$135  5g",
+        "Type": "Dissociatives",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Champagne MDMA",
+        "Price": "$170  5g",
+        "Type": "Others",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Champagne Haze",
+        "Price": "$174  1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Original OG Kush",
+        "Price": "$155  1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Lemon Haze",
+        "Price": "$182  1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Afghan Heroin",
+        "Price": "$158  1g",
+        "Type": "Opioids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Black Nepali Hashish",
+        "Price": "$120  30g",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Moroccan Hash Standard",
+        "Price": "$215  50g",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Xanax (Alprazolam) 1mg",
+        "Price": "$70  30 pills",
+        "Type": "Depressants",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Clonazepam 0,5mg 2pcs",
+        "Price": "$65  120 pills",
+        "Type": "Depressants",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Pure Ketamine 83%",
+        "Price": "$135  5g",
+        "Type": "Dissociatives",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Champagne MDMA",
+        "Price": "$170  5g",
+        "Type": "Others",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Champagne MDMA",
+        "Price": "$170 per 5g",
+        "Type": "Others",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Pure Ketamine 83%",
+        "Price": "$135 per 5g",
+        "Type": "Dissociatives",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Original OG Kush",
+        "Price": "$155 per 1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Lemon Haze",
+        "Price": "$182 per 1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Black Nepali Hashish",
+        "Price": "$120 per 30g",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Moroccan Hash Standard",
+        "Price": "$215 per 50g",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Champagne Haze",
+        "Price": "$174 per 1 ounce",
+        "Type": "Cannabinoids",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Xanax (Alprazolam) 1mg",
+        "Price": "$70 per 30 pills",
+        "Type": "Depressants",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Clonazepam 0,5mg 2pcs",
+        "Price": "$65 per 120 pills",
+        "Type": "Depressants",
+        "Marketplace": "MidlandCity"
+    },
+    {
+        "Product": "Afghan Heroin",
+        "Price": "$158 per 1g",
+        "Type": "Opioids",
+        "Marketplace": "MidlandCity"
+    }
+]

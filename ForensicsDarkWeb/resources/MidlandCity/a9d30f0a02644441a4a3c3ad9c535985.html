@@ -1,0 +1,429 @@
+
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Midland city- a anonymous marketplace</title>
+  <style type="text/css">
+   body {
+    font: 10pt Arial, Helvetica, sans-serif;
+    background: #fff; /* Цвет фона */
+    margin: 0; /* Убираем отступы */
+   }
+   h2 {
+    font-size: 24px; /* Размер шрифта */
+    color: #47966d; Цвет текста
+    margin-bottom: 0; /* Отступ снизу */
+   }
+   #container {
+    width: 850px; /* Ширина макета */
+    margin: 0 auto; /* Выравниваем по центру */
+    position: relative; /* Относительное позиционирование */
+   }
+   #header { /* Цвет фона */
+    font-size: 24pt; /* Размер текста */
+    font-weight: bold; /* Жирное начертание */
+    color: #22332a; /* Цвет текста */
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+
+    position: relative;
+       border-bottom: 2px solid  #22332a; /* Линия справа */
+   }
+   #content {
+    margin-left: 170px; /* Отступ справа */
+    padding: 10px; /* Поля вокруг текста */
+
+   }
+   #content p {
+    margin-top: 0.3em /* Отступ сверху */
+   }
+   #sidebar {
+
+    position: absolute; /* Абсолютное позиционирование */
+    left: 0; /* Положение от правого края */
+    top: 8px; /* Положение от верхнего края */
+    width: 170px; /* Ширина */
+   }
+
+
+
+   #footer {
+    border-top: 2px solid #22332a;
+    font-size: 14px;
+          font-weight: 600;
+        color: #1b412d;
+    margin-top: 30px; /* Отступы вокруг текста */
+    padding-top: 15px; /* Отступы вокруг текста */
+        margin-bottom: 30px; /* Отступы вокруг текста */
+    padding-left: 20px;
+
+   }
+
+      #container2{
+          position: relative;
+          margin-bottom: 170px;
+      }
+
+
+      a{
+          text-decoration: none;
+      }
+
+
+      .checkbox label:before {
+    border-radius: 3px;
+}
+
+      #but{
+          border: none;
+          cursor: pointer;
+          background-color: white;
+          font-size: 16px;
+          font-weight: bold;
+          color: #47966d;
+          padding: 0px;
+          margin: 0px;
+          height: 20px;
+          font-family: Helvetica;
+      }
+
+label:before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 1px;
+    background-color: #aaa;
+    box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, .3), 0px 1px 0px 0px rgba(255, 255, 255, .8);
+}
+      .checkbox{
+
+          padding-bottom: 5px;
+
+      }
+
+      .checkbox label {
+    margin-bottom: 5px;
+}
+
+
+      input:checked + label {
+          color: #47966d;
+
+      }
+
+      input[type=checkbox] {
+	display: none;
+}
+
+      label:hover:before{
+          background-color: #dedede;
+      }
+
+      label:hover{
+          color: #47966d;
+      }
+
+      label {
+
+    cursor: pointer;
+    position: relative;
+    padding-left: 20px;
+    font-size: 16px;
+          font-weight: 600;
+        color: #1b412d;
+}
+
+      input[type=checkbox]:checked + label:before {
+	content: "\2713";
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, .2);
+	font-size: 16px;
+	color: #47966d;
+          background-color: #dedede;
+	text-align: center;
+    line-height: 15px;
+}
+
+
+    #cat ~ p{
+           padding-left: 15px;
+            font-size: 15px;
+            margin-top: 0.3em;
+            margin-bottom: 0.3em;
+            font-weight: 600;
+
+       }
+
+      #cat ~ p a, #header a{
+          color: #1b412d;
+      }
+      #cat ~ p a:active, #header a:active{
+          color: #47966d;
+      }
+
+      .item{
+          font-size: 16px;
+      }
+
+
+
+      .table, .row, .cell {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+}
+
+.table {
+    display: table;
+    padding: 0;
+    border-spacing: 5px;
+}
+
+.row {
+    display: table-row;
+    border-color: #b94a48;
+}
+
+.cell {
+    display: table-cell;
+    height: 250px;
+    width: 250px;
+    border: none;
+    color: #1b412d;
+    font-weight: 600;
+
+}
+
+      .item3{
+          opacity: 0;
+          height: 0px;
+      }
+
+      .item3{
+          transition-property: opacity;
+          transition-duration: 0.4s;
+      }
+
+      .item3{
+          transition-property: height;
+          transition-duration: 0.4s;
+      }
+
+      .cell{
+
+            box-shadow: 0 0 0px rgba(0,0,0,0.0);
+            transition: 0.4s;
+      }
+
+      .cell:hover{
+
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            transition: 0.4s;
+      }
+
+       .cell:hover .pp + .item + .item3{
+          transition: 0.4s;
+          opacity: 1;
+
+      }
+
+      .cell:hover .pp + .item + #ogkush{
+          height: 70px;
+
+      }
+
+      .cell:hover .pp + .item + #lemonhaze{
+          height: 165px;
+
+      }
+
+      .cell:hover .pp + .item + #heroin{
+          height: 60px;
+
+      }
+
+
+       .cell:hover .pp + .item + #nepalhash{
+          height: 60px;
+
+      }
+
+      .cell:hover .pp + .item + #morocanhash{
+          height: 135px;
+
+      }
+
+
+      .cell:hover .pp + .item + #xanax{
+          height: 140px;
+
+      }
+
+      .cell:hover .pp + .item + #clonazepam{
+          height: 155px;
+
+      }
+
+      .cell:hover .pp + .item + #ketamine{
+          height: 70px;
+
+      }
+
+      .cell:hover .pp + .item + #mdma{
+          height: 70px;
+
+      }
+
+      .cell:hover .pp + .item + #champagnehaze{
+          height: 155px;
+
+      }
+
+      .cell:hover .pp + .item + #morphine{
+          height: 70px;
+
+      }
+
+
+      .item{
+
+          font-size: 15px;
+      }
+
+      .item2 b {
+
+           font-size: 16px;
+           color: #47966d;
+           padding-top: 5px;
+
+      }
+
+
+      .item2 span {
+
+           font-size: 11px;
+
+
+      }
+
+
+      .checkbox {
+          padding-top: 10px;
+      }
+
+      .cell img {
+
+          width: 200px;
+      }
+
+      #cart{
+
+          font-size: 14px;
+      }
+
+      .sponsored {
+        margin: 20px 0px 10px 0px;
+        text-align: center;
+        font-size: 25px;
+      }
+
+      .sponsored a {
+        color: #47966d !important;
+        text-decoration: underline;
+      }
+
+  </style>
+ </head>
+ <body>
+  <div id="container">
+   <div id="header"><img src="images/logo.png"><div style="position: absolute; right: 15px; top: 42px; font-size: 16px;"><a href="http://mcityef3eueeh26mo2e7jn6yypgnvtbu2w57kcka6g3zu7u4xv5cgkid.onion/">Products&nbsp;</a> <a target="_blank" href="order.php"><span style="color: #47966d;"><button id="but" type="submit" form="data">Add to Cart</button></span></a> <a href="about.php">About us&nbsp;</a> <a href="support.php">Support</a></div>
+      <!--
+     <div class="sponsored">
+	<a href="http://deepmehruhlkmelzffkpcxathectjtnanzkgk7xw7ibuj6qieubpecqd.onion/">
+                    <div style="display: inline-block; text-align: center;">
+                        <img src="images/deeeeeeep-min.gif" style="height: 100%; max-height: 121px; width: 100%; max-width: 940px;">
+                    </div>
+                </a>
+     </div>
+     -->
+   </div>
+    <div id="container2">
+   <div id="content"><form id="data" method="post" action="add.php">
+    <div class="table">
+            <div class="row">
+                <div class="cell">
+    <p class="pp"><img src="images/og_kush.jpg"></p>
+    <div class="item">Original OG Kush</div>
+    <div class="item3" id="ogkush" style="padding-top: 15px;">Type: Indica 75% / Sativa 25%
+Genetic: Chemdog x Lemon x Thaï x Pakistan<br>
+        Culture: Hydroponic </div>
+     <div class="item2" style="padding-top: 15px;"><b>$</b><b>155</b><span> per 1 ounce</span></div>
+       <div class="checkbox">
+			<input id="check1" type="checkbox" name="ogkush">
+			<label id="cart" for="check1">Add to Cart</label>
+		</div>        </div>
+                <div class="cell">
+    <p class="pp"><img src="images/lemon_haze.png"></p>
+    <div class="item">Lemon Haze</div>
+    <div class="item3" id="lemonhaze" style="padding-top: 15px;">Lemon Haze has been characterized as smelling of fresh peeled lemon slices with a similar taste. Its buds appear to be green and yellow with amber hairs on the trichomes, giving it the yellow tint. This strain's THC has been measured at about 15-20% with a CBD of 0.38%. </div>
+     <div class="item2" style="padding-top: 15px;"><b>$</b><b>182</b><span> per 1 ounce</span></div>
+       <div class="checkbox">
+			<input id="check2" type="checkbox" name="lemonhaze">
+			<label id="cart" for="check2">Add to Cart</label>
+		</div>        </div>
+             <div class="cell">
+    <p class="pp"><img src="images/nepal_hash.jpg"></p>
+    <div class="item">Black Nepali Hashish</div>
+    <div class="item3" id="nepalhash" style="padding-top: 15px;">Black hash from Nepal.It's Kathmandu street hash.
+Mild day time smoke,has spicy taste and nice aroma to it. </div>
+    <div class="item2" style="padding-top: 15px;"><b>$</b><b>120</b><span> per 30g</span></div>
+       <div class="checkbox">
+			<input id="check4" type="checkbox" name="nepalhash">
+			<label id="cart" for="check4">Add to Cart</label>
+		</div>    </div>
+
+            </div>
+            <div class="row">
+
+               <div class="cell">
+    <p class="pp"><img src="images/morocan_hash.jpg"></p>
+    <div class="item">Moroccan Hash Standard</div>
+    <div class="item3" id="morocanhash" style="padding-top: 15px;">It is a Potent, sometimes very stron hash. Don't underestimate the potency of this Maroc HASH as the high takes about 5-15 minutes to reach it's full potential. Almost narcotic, produces a very physical and stony high.</div>
+    <div class="item2" style="padding-top: 15px;"><b>$</b><b>215</b><span> per 50g</span></div>
+       <div class="checkbox">
+			<input id="check5" type="checkbox" name="morocanhash">
+			<label id="cart" for="check5">Add to Cart</label>
+		</div>                </div>
+
+                <div class="cell">
+                    <p class="pp"><img src="images/сhampagne_haze.png"></p>
+    <div class="item">Champagne Haze</div>
+    <div class="item3" id="champagnehaze" style="padding-top: 15px;">The Champagne marijuana strain is an intense combination of Hashplant and a Kush strain that was pollinated with a male Burmese cannabis strain. The Champagne marijuana strain offers patients an exquisitely pleasurable medication.</div>
+     <div class="item2" style="padding-top: 15px;"><b>$</b><b>174</b><span> per 1 ounce</span></div>
+       <div class="checkbox">
+			<input id="check10" type="checkbox" name="champagnehaze">
+			<label id="cart" for="check10">Add to Cart</label>
+		</div>    </div>
+            </div>
+
+        </div>
+    </form>
+   </div>
+   <div id="sidebar">
+       <p style="padding-top: 15px;"><a style="color: #1b412d; font-size: 15px; font-weight: 600;" href="digital_goods.php">Digital goods(2)</a></p>
+    <p id="cat" style="color: #22332a; font-size: 14px;">Drugs by category:</p>
+    <p><a href="benzos.php">Benzos(2)</a></p>
+    <p><a href="cannabis.php">Cannabis(5)</a></p>
+    <p><a href="dissociatives.php">Dissociatives(1)</a></p>
+    <p><a href="ecstazy.php">Ecstazy(1)</a></p>
+    <p><a href="opioids.php">Opioids(2)</a></p>
+   </div>
+    </div>
+   <div id="footer">&copy; Midland City 2016-2024 | midcity@keemail.me</div>
+  </div>
+ </body>
+</html>

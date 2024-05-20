@@ -1,0 +1,79 @@
+[
+    {
+        "Product": "1g pure Cocaine",
+        "Price": "75 EUR = 0.00115 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "2g pure Cocaine",
+        "Price": "130 EUR = 0.00199 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "5g pure Cocaine",
+        "Price": "250 EUR = 0.00383 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "25g pure Cocaine",
+        "Price": "950 EUR = 0.01455 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "10g pure Speed",
+        "Price": "90 EUR = 0.00138 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "50g pure Speed",
+        "Price": "390 EUR = 0.00597 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "100g pure Speed",
+        "Price": "650 EUR = 0.00996 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "5g pure Crystal Meth",
+        "Price": "120 EUR = 0.00184 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "10g pure Crystal Meth",
+        "Price": "200 EUR = 0.00306 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "50g pure Crystal Meth",
+        "Price": "800 EUR = 0.01226 \u0e3f",
+        "Availability": "X",
+        "Type": "Stimulants",
+        "Marketplace": "BitPharma"
+    },
+    {
+        "Product": "50g MDMA Crystals",
+        "Price": "140 EUR = 0.00214 \u0e3f",
+        "Availability": "X",
+        "Type": "Hallucinogens",
+        "Marketplace": "BitPharma"
+    }
+]
